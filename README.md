@@ -10,9 +10,9 @@
 
 ## 思维导图
 
-思维导图图片链接
+[思维导图图片链接](http://jimulz.gitee.io/blog-img/github/Architecture.png)
 
-思维导图编辑链接（大家还可以自己编辑这个脑图，形成自己的体系）
+[思维导图编辑链接](https://www.processon.com/view/link/60013a167d9c080e58d6123f)（大家还可以自己编辑这个脑图，形成自己的体系）
 
 
 ## 面试专题
