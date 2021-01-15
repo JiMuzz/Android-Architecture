@@ -1,7 +1,5 @@
 ## Android-Architecture
 
-Help you build a complete Android architecture
-
 本库会从Android整个架构体系出发，去完善每一篇文章，帮助大家建立一个完整的体系架构，这样大家面对项目上的问题、面试题就能比较快的想到解决办法。
 
 另外每个月底还会有固定期刊—— 《面试题思考与解答》现在已更新了三刊。
@@ -38,7 +36,12 @@ Help you build a complete Android architecture
 * [《犬夜叉2021》我想通过Binder找到你](https://mp.weixin.qq.com/s/G39JNcP5Ye9AbXRv6tQ8pg)
 
 
-
-
-
 ### 持续更新，敬请期待～
+
+
+## 期望与感谢
+
+希望大家都能加把劲，学好Android，然后找个好工作，壮大我们移动端的力量！
+
+>努力就是最好的自己
+
