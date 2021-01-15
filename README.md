@@ -6,7 +6,7 @@
 
 大家可以去我的[公众号码上积木](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2164773ecbac43b3abf363360e4f365a~tplv-k3u1fbpfcp-watermark.image)提出意见，还可以加入讨论群，针对每个知识点提出自己的想法和问题，这里有一群很好的Android小伙伴等你哟。(打广告的人太多，所以麻烦在公众号里加我微信，我拉你进群)。
 
-（如果对你有帮助的话，希望点个Start～感谢）❤️
+（如果对你有帮助的话，希望点个Star～感谢）❤️
 
 ## 思维导图
 
