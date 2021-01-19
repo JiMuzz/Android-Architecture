@@ -35,6 +35,9 @@
 * [谈AMS的诞生和使用](https://mp.weixin.qq.com/s/3FXO0v0Ei9wdlRgB43tsng)
 * [《犬夜叉2021》我想通过Binder找到你](https://mp.weixin.qq.com/s/G39JNcP5Ye9AbXRv6tQ8pg)
 
+### Java知识
+
+* [Java反射全解析(使用、原理、问题、应用)](https://www.jianshu.com/p/ab8812342658)
 
 ### 持续更新，敬请期待～
 
