@@ -37,7 +37,7 @@
 
 ### Java知识
 
-* [Java反射全解析(使用、原理、问题、应用)](https://www.jianshu.com/p/ab8812342658)
+* [Java反射全解析(使用、原理、问题、应用)](https://www.cnblogs.com/jimuzz/p/14297042.html)
 
 ### 持续更新，敬请期待～
 
