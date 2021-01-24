@@ -38,6 +38,17 @@
 ### Java知识
 
 * [Java反射全解析(使用、原理、问题、应用)](https://www.cnblogs.com/jimuzz/p/14297042.html)
+* [漫谈序列化](https://mp.weixin.qq.com/s/oMTavByQfV78F9FNsotQrw)
+* [一网打尽“类”的初始化实例化知识点](https://mp.weixin.qq.com/s/ozsOXBpKpF1GTrX-NPAuFg)
+
+### 性能优化
+
+[启动优化](https://mp.weixin.qq.com/s/K7n0qsiMJcUZnH_-vLseRg)
+[Android UI优化全解析](https://mp.weixin.qq.com/s/ge1CV1VJ2llwuED_OuEwcw)
+
+### 版本更新
+
+[Android各版本迭代信息集合](https://mp.weixin.qq.com/s/kQmH2GnwW8FK-yNmWcheTA)
 
 ### 持续更新，敬请期待～
 
