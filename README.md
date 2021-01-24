@@ -43,12 +43,12 @@
 
 ### 性能优化
 
-[启动优化](https://mp.weixin.qq.com/s/K7n0qsiMJcUZnH_-vLseRg)
-[Android UI优化全解析](https://mp.weixin.qq.com/s/ge1CV1VJ2llwuED_OuEwcw)
+* [启动优化](https://mp.weixin.qq.com/s/K7n0qsiMJcUZnH_-vLseRg)
+* [Android UI优化全解析](https://mp.weixin.qq.com/s/ge1CV1VJ2llwuED_OuEwcw)
 
 ### 版本更新
 
-[Android各版本迭代信息集合](https://mp.weixin.qq.com/s/kQmH2GnwW8FK-yNmWcheTA)
+* [Android各版本迭代信息集合](https://mp.weixin.qq.com/s/kQmH2GnwW8FK-yNmWcheTA)
 
 ### 持续更新，敬请期待～
 
