@@ -18,6 +18,10 @@
 
 ## 知识体系
 
+### 网络知识
+
+[数据原来是这么传输的](https://mp.weixin.qq.com/s/PFhA3WdS-2aSdbWqGyTETQ)
+[HTTPS是怎么保证安全传输的？](https://mp.weixin.qq.com/s/xFMDKy6ORqkF3R2AfcVpcQ)
 
 ### Android系统（framework层）
 
@@ -41,6 +45,7 @@
 ### 版本更新
 
 * [Android各版本迭代信息集合](https://mp.weixin.qq.com/s/kQmH2GnwW8FK-yNmWcheTA)
+* [拖不得了，Android11真的来了，最全适配实践指南奉上](https://mp.weixin.qq.com/s/ihn0uijiNBGRoJX_gpvTrA)
 
 ### 持续更新，敬请期待～
 
