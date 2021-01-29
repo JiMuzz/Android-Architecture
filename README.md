@@ -15,14 +15,6 @@
 [思维导图编辑链接](https://www.processon.com/view/link/60013a167d9c080e58d6123f)（大家还可以自己编辑这个脑图，形成自己的体系）
 
 
-## 面试专题
-
-如果需要PDF版本可以在公众号回复111即可获取。
-
-* [《面试题思考与解答》10月刊](https://mp.weixin.qq.com/s/Sey1R6USU3R0XBvgK--VNw)
-* [《面试题思考与解答》11月刊](https://mp.weixin.qq.com/s/twJS54Ugisa54xBlGk58IA)
-* [《面试题思考与解答》12月刊](https://mp.weixin.qq.com/s/rn4w4bqIdQ-mksfiSk9BMA)
-
 
 ## 知识体系
 
