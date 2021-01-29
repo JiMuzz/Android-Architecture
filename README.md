@@ -37,6 +37,11 @@
 * [漫谈序列化](https://mp.weixin.qq.com/s/oMTavByQfV78F9FNsotQrw)
 * [一网打尽“类”的初始化实例化知识点](https://mp.weixin.qq.com/s/ozsOXBpKpF1GTrX-NPAuFg)
 
+### 视图
+
+* [Window十二问](https://mp.weixin.qq.com/s/Zzm7CR1cP_vIdcSCZmvk0A)
+* [Bitmap知识点集合](https://mp.weixin.qq.com/s/qOMFJYoULG6A_azZbb3Drg)
+
 ### 性能优化
 
 * [启动优化](https://mp.weixin.qq.com/s/K7n0qsiMJcUZnH_-vLseRg)
